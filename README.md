@@ -1,6 +1,7 @@
 Dos Gaming Wallpapers
 
 ### [Download zip](https://github.com/maciej-ka/dos-games-wallpapers/archive/master.zip)
+<br />
 
 ![./1920x1200/another-car.png](./1920x1200/another-car.png)
 ![./1920x1200/another-desk-broken.png](./1920x1200/another-desk-broken.png)
