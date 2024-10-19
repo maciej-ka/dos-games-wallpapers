@@ -3,13 +3,11 @@ Nostalgia brew for your desktops
 ![docs preview png](./docs/preview.png)
 ![docs with iterm png](./docs/with-iterm.png)
 
-A wallpaper collection made from dos games screenshots.<br />
+A wallpaper collection made from DOS game screenshots.<br />
 Selected by humor, low distraction, atmosphere.
 
 ### [Download zip](https://github.com/maciej-ka/dos-games-wallpapers/archive/master.zip)
-<br />
 
-## Games:
 Another World<br />
 BloodNet<br />
 Sid Meier's Civilization<br />
