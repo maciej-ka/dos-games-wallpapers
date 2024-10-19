@@ -28,7 +28,6 @@ Collection of dos gaming screenshots turned into wallpapers
 ![1920x1200 ishar night png](./1920x1200/ishar-night.png)
 ![1920x1200 monkey intro png](./1920x1200/monkey-intro.png)
 ![1920x1200 sam fight png](./1920x1200/sam-fight.png)
-![1920x1200 sherlock bridge png](./1920x1200/sherlock-bridge.png)
 ![1920x1200 sherlock carriage png](./1920x1200/sherlock-carriage.png)
 ![1920x1200 sherlock yes png](./1920x1200/sherlock-yes.png)
 ![1920x1200 sky rubber features png](./1920x1200/sky-rubber-features.png)
