@@ -9,7 +9,7 @@ Selected by humor, low distraction, atmosphere.
 ### [Download zip](https://github.com/maciej-ka/dos-games-wallpapers/archive/master.zip)
 <br />
 
-## Sources:
+## Games:
 Another World<br />
 BloodNet<br />
 Sid Meier's Civilization<br />
@@ -22,8 +22,6 @@ Sam & Max Hit the Road<br />
 The Lost Files of Sherlock Holmes<br />
 Beneath a Steel Sky<br />
 Day of the Tentacle<br />
-
-<br />
 
 ![./1920x1200/another-car.png](./1920x1200/another-car.png)
 ![./1920x1200/another-desk-broken.png](./1920x1200/another-desk-broken.png)
