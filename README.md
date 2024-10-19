@@ -50,6 +50,7 @@ Day of the Tentacle<br />
 ![./1920x1200/monkey-intro.png](./1920x1200/monkey-intro.png)
 ![./1920x1200/sam-fight.png](./1920x1200/sam-fight.png)
 ![./1920x1200/sherlock-carriage.png](./1920x1200/sherlock-carriage.png)
+![./1920x1200/sherlock-kid.png](./1920x1200/sherlock-kid.png)
 ![./1920x1200/sherlock-yes.png](./1920x1200/sherlock-yes.png)
 ![./1920x1200/sky-rubber-features.png](./1920x1200/sky-rubber-features.png)
 ![./1920x1200/tentacle-night-1.png](./1920x1200/tentacle-night-1.png)
