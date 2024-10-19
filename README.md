@@ -1,4 +1,13 @@
-Dos Gaming Wallpapers
+Nostalgia brew for your desktops
+
+![docs preview png](./docs/preview.png)
+
+A wallpaper collection made from dos games screenshots.
+Selected by humor, low distraction, atmosphere.
+
+Together with iTerm looks like:
+
+![docs with iterm png](./docs/with-iterm.png)
 
 ### [Download zip](https://github.com/maciej-ka/dos-games-wallpapers/archive/master.zip)
 <br />
