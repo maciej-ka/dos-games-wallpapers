@@ -1,6 +1,8 @@
 # dos-games-wallpapers
 Collection of dos gaming screenshots turned into wallpapers
 
+[1920x1200 zip](https://github.com/maciej-ka/dos-games-wallpapers/archive/master.zip)
+
 ![./1920x1200/another-car.png](./1920x1200/another-car.png)
 ![./1920x1200/another-desk-broken.png](./1920x1200/another-desk-broken.png)
 ![./1920x1200/another-desk.png](./1920x1200/another-desk.png)
