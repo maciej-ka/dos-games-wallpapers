@@ -28,6 +28,7 @@ Day of the Tentacle<br />
 ![./1920x1200/another_tentacles.png](./1920x1200/another_tentacles.png)
 ![./1920x1200/bloodnet-125st.png](./1920x1200/bloodnet-125st.png)
 ![./1920x1200/bloodnet-canal.png](./1920x1200/bloodnet-canal.png)
+![./1920x1200/bloodnet-times.png](./1920x1200/bloodnet-times.png)
 ![./1920x1200/civ-beginning.png](./1920x1200/civ-beginning.png)
 ![./1920x1200/civ-founded.png](./1920x1200/civ-founded.png)
 ![./1920x1200/dig-air-tastes.png](./1920x1200/dig-air-tastes.png)
