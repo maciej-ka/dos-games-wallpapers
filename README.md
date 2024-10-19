@@ -6,7 +6,7 @@ Nostalgia brew for your desktops
 A wallpaper collection made from DOS game screenshots.<br />
 Selected by humor, low distraction, atmosphere.
 
-### [Download zip](https://github.com/maciej-ka/dos-games-wallpapers/archive/master.zip)
+### [Download as zip](https://github.com/maciej-ka/dos-games-wallpapers/archive/master.zip)
 
 Another World<br />
 BloodNet<br />
