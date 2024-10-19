@@ -2,7 +2,7 @@
 ![docs with iterm png](./docs/with-iterm.png)
 
 A wallpaper collection made from DOS game screenshots.<br />
-Selected by humor, low distraction, atmosphere.
+Selection guided by humor, low distraction and atmosphere.
 
 ### [Download as zip](https://github.com/maciej-ka/dos-games-wallpapers/archive/master.zip)
 
