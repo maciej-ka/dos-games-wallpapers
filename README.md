@@ -1,5 +1,3 @@
-Nostalgia brew for your desktops
-
 ![docs preview png](./docs/preview.png)
 ![docs with iterm png](./docs/with-iterm.png)
 
