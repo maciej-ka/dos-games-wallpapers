@@ -43,15 +43,15 @@ Dos Gaming Wallpapers.
 ## Sources:
 list of games by prefix:
 
-another: Another World
-bloodnet: BloodNet
-civ: Sid Meier's Civilization
-dig: The Dig®
-full: Full Throttle
-indy: Indiana Jones and the Fate of Atlantis
-ishar: Ishar 2 Messengers of Doom
-monkey: The Secret of Monkey Island
-sam: Sam & Max Hit the Road
-sherlock: The Lost Files of Sherlock Holmes
-sky: Beneath a Steel Sky
-tentacle: Day of the Tentacle
+another: Another World<br />
+bloodnet: BloodNet<br />
+civ: Sid Meier's Civilization<br />
+dig: The Dig®<br />
+full: Full Throttle<br />
+indy: Indiana Jones and the Fate of Atlantis<br />
+ishar: Ishar 2 Messengers of Doom<br />
+monkey: The Secret of Monkey Island<br />
+sam: Sam & Max Hit the Road<br />
+sherlock: The Lost Files of Sherlock Holmes<br />
+sky: Beneath a Steel Sky<br />
+tentacle: Day of the Tentacle<br />
