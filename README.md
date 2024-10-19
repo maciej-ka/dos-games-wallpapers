@@ -1,15 +1,28 @@
 Nostalgia brew for your desktops
 
 ![docs preview png](./docs/preview.png)
-
-A wallpaper collection made from dos games screenshots.
-Selected by humor, low distraction, atmosphere.
-
-Together with iTerm looks like:
-
 ![docs with iterm png](./docs/with-iterm.png)
 
+A wallpaper collection made from dos games screenshots.<br />
+Selected by humor, low distraction, atmosphere.
+
 ### [Download zip](https://github.com/maciej-ka/dos-games-wallpapers/archive/master.zip)
+<br />
+
+## Sources:
+Another World<br />
+BloodNet<br />
+Sid Meier's Civilization<br />
+The Dig®<br />
+Full Throttle<br />
+Indiana Jones and the Fate of Atlantis<br />
+Ishar 2 Messengers of Doom<br />
+The Secret of Monkey Island<br />
+Sam & Max Hit the Road<br />
+The Lost Files of Sherlock Holmes<br />
+Beneath a Steel Sky<br />
+Day of the Tentacle<br />
+
 <br />
 
 ![./1920x1200/another-car.png](./1920x1200/another-car.png)
@@ -50,18 +63,3 @@ Together with iTerm looks like:
 ![./1920x1200/tentacle-oh-sure.png](./1920x1200/tentacle-oh-sure.png)
 ![./1920x1200/tentacle-pond.png](./1920x1200/tentacle-pond.png)
 
-## Sources:
-game list by prefix:
-
-another: Another World<br />
-bloodnet: BloodNet<br />
-civ: Sid Meier's Civilization<br />
-dig: The Dig®<br />
-full: Full Throttle<br />
-indy: Indiana Jones and the Fate of Atlantis<br />
-ishar: Ishar 2 Messengers of Doom<br />
-monkey: The Secret of Monkey Island<br />
-sam: Sam & Max Hit the Road<br />
-sherlock: The Lost Files of Sherlock Holmes<br />
-sky: Beneath a Steel Sky<br />
-tentacle: Day of the Tentacle<br />
