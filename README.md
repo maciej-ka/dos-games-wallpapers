@@ -42,7 +42,7 @@ Dos Gaming Wallpapers
 ![./1920x1200/tentacle-pond.png](./1920x1200/tentacle-pond.png)
 
 ## Sources:
-list of games by prefix:
+game list by prefix:
 
 another: Another World<br />
 bloodnet: BloodNet<br />
