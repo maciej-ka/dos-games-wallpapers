@@ -1,5 +1,6 @@
 ![docs preview png](./docs/preview.png)
 ![docs with iterm png](./docs/with-iterm.png)
+![docs preview 2 png](./docs/preview-2.png)
 
 A wallpaper collection selected for atmosphere, low distraction and humor.
 
