@@ -1,8 +1,7 @@
 ![docs preview png](./docs/preview.png)
 ![docs with iterm png](./docs/with-iterm.png)
 
-A wallpaper collection of DOS games screenshots.<br />
-Picked for atmosphere, low distraction, humor.
+A wallpaper collection selected for atmosphere, low distraction and humor.
 
 ### [Download as zip](https://github.com/maciej-ka/dos-games-wallpapers/archive/master.zip)
 
