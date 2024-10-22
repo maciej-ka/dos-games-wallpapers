@@ -6,6 +6,7 @@ A wallpaper collection selected for atmosphere, low distraction and humor.
 
 ### [Download as zip](https://github.com/maciej-ka/dos-games-wallpapers/archive/master.zip)
 
+Alone in the Dark<br />
 Another World<br />
 BloodNet<br />
 Sid Meier's Civilization<br />
@@ -20,6 +21,9 @@ Beneath a Steel Sky<br />
 Day of the Tentacle<br />
 
 ## Image list
+![./1920x1200/alone-drive.png](./1920x1200/alone-drive.png)
+![./1920x1200/alone-home.png](./1920x1200/alone-home.png)
+![./1920x1200/alone-walk.png](./1920x1200/alone-walk.png)
 ![./1920x1200/another-car.png](./1920x1200/another-car.png)
 ![./1920x1200/another-desk-broken.png](./1920x1200/another-desk-broken.png)
 ![./1920x1200/another-desk.png](./1920x1200/another-desk.png)
