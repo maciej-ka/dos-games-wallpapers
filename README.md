@@ -13,7 +13,8 @@ Sid Meier's Civilization<br />
 The Dig®<br />
 Full Throttle<br />
 Indiana Jones and the Fate of Atlantis<br />
-Ishar 2 Messengers of Doom<br />
+Ishar 2: Messengers of Doom<br />
+Ishar 3: The Seven Gates of Infinity<br />
 The Secret of Monkey Island<br />
 Sam & Max Hit the Road<br />
 The Lost Files of Sherlock Holmes<br />
@@ -50,6 +51,7 @@ Day of the Tentacle<br />
 ![./1920x1200/indy-is-back.png](./1920x1200/indy-is-back.png)
 ![./1920x1200/indy-marcus.png](./1920x1200/indy-marcus.png)
 ![./1920x1200/indy-uh-oh.png](./1920x1200/indy-uh-oh.png)
+![./1920x1200/ishar-castle.png](./1920x1200/ishar-castle.png)
 ![./1920x1200/ishar-day.png](./1920x1200/ishar-day.png)
 ![./1920x1200/ishar-night.png](./1920x1200/ishar-night.png)
 ![./1920x1200/monkey-intro.png](./1920x1200/monkey-intro.png)
