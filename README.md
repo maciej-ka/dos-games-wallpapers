@@ -39,7 +39,6 @@ Day of the Tentacle<br />
 ![./1920x1200/civ-founded.png](./1920x1200/civ-founded.png)
 ![./1920x1200/dig-air-tastes.png](./1920x1200/dig-air-tastes.png)
 ![./1920x1200/full-ambush.png](./1920x1200/full-ambush.png)
-![./1920x1200/full-dont-collect-art.png](./1920x1200/full-dont-collect-art.png)
 ![./1920x1200/full-rustic.png](./1920x1200/full-rustic.png)
 ![./1920x1200/full-uh-oh.png](./1920x1200/full-uh-oh.png)
 ![./1920x1200/full-who-needs-dogs.png](./1920x1200/full-who-needs-dogs.png)
