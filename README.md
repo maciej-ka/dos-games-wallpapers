@@ -17,6 +17,7 @@ Ishar 2: Messengers of Doom<br />
 Ishar 3: The Seven Gates of Infinity<br />
 The Secret of Monkey Island<br />
 Sam & Max Hit the Road<br />
+Sensible Soccer<br />
 The Lost Files of Sherlock Holmes<br />
 Beneath a Steel Sky<br />
 Day of the Tentacle<br />
@@ -55,6 +56,7 @@ Day of the Tentacle<br />
 ![./1920x1200/ishar-night.png](./1920x1200/ishar-night.png)
 ![./1920x1200/monkey-intro.png](./1920x1200/monkey-intro.png)
 ![./1920x1200/sam-fight.png](./1920x1200/sam-fight.png)
+![./1920x1200/sensi-yellow.png](./1920x1200/sensi-yellow.png)
 ![./1920x1200/sherlock-carriage.png](./1920x1200/sherlock-carriage.png)
 ![./1920x1200/sherlock-kid.png](./1920x1200/sherlock-kid.png)
 ![./1920x1200/sky-escape.png](./1920x1200/sky-escape.png)
