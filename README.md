@@ -49,7 +49,6 @@ Day of the Tentacle<br />
 ![./1920x1200/full-who-needs-dogs.png](./1920x1200/full-who-needs-dogs.png)
 ![./1920x1200/indy-basement.png](./1920x1200/indy-basement.png)
 ![./1920x1200/indy-dont-look-good.png](./1920x1200/indy-dont-look-good.png)
-![./1920x1200/indy-marcus.png](./1920x1200/indy-marcus.png)
 ![./1920x1200/indy-uh-oh.png](./1920x1200/indy-uh-oh.png)
 ![./1920x1200/ishar-castle.png](./1920x1200/ishar-castle.png)
 ![./1920x1200/ishar-day.png](./1920x1200/ishar-day.png)
