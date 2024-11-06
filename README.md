@@ -44,7 +44,7 @@ Day of the Tentacle<br />
 ![./1920x1200/dig-underwater.png](./1920x1200/dig-underwater.png)
 ![./1920x1200/dig-wet.png](./1920x1200/dig-wet.png)
 ![./1920x1200/full-ambush.png](./1920x1200/full-ambush.png)
-![./1920x1200/full-rustic.png](./1920x1200/full-rustic.png)
+![./1920x1200/full-rustic-empty.png](./1920x1200/full-rustic-empty.png)
 ![./1920x1200/full-uh-oh.png](./1920x1200/full-uh-oh.png)
 ![./1920x1200/full-who-needs-dogs.png](./1920x1200/full-who-needs-dogs.png)
 ![./1920x1200/indy-basement.png](./1920x1200/indy-basement.png)
