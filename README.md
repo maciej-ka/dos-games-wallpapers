@@ -52,7 +52,7 @@ Day of the Tentacle<br />
 ![./1920x1200/indy-uh-oh.png](./1920x1200/indy-uh-oh.png)
 ![./1920x1200/ishar-castle.png](./1920x1200/ishar-castle.png)
 ![./1920x1200/ishar-day.png](./1920x1200/ishar-day.png)
-![./1920x1200/ishar-night.png](./1920x1200/ishar-night.png)
+![./1920x1200/ishar-night-no-moon.png](./1920x1200/ishar-night-no-moon.png)
 ![./1920x1200/monkey-intro.png](./1920x1200/monkey-intro.png)
 ![./1920x1200/sam-fight.png](./1920x1200/sam-fight.png)
 ![./1920x1200/sensi-yellow.png](./1920x1200/sensi-yellow.png)
