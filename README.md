@@ -8,19 +8,20 @@ A wallpaper collection curated for atmosphere, mini distractions and humor.
 
 Alone in the Dark<br />
 Another World<br />
+Beneath a Steel Sky<br />
 BloodNet<br />
-Sid Meier's Civilization<br />
-The Dig®<br />
+Day of the Tentacle<br />
 Full Throttle<br />
 Indiana Jones and the Fate of Atlantis<br />
 Ishar 2: Messengers of Doom<br />
 Ishar 3: The Seven Gates of Infinity<br />
-The Secret of Monkey Island<br />
 Sam & Max Hit the Road<br />
 Sensible Soccer<br />
+Sid Meier's Civilization<br />
+The Dig®<br />
 The Lost Files of Sherlock Holmes<br />
-Beneath a Steel Sky<br />
-Day of the Tentacle<br />
+The Secret of Monkey Island<br />
+Monkey Island 2: LeChuck’s Revenge<br />
 
 ## Image list
 ![./1920x1200/alone-drive.png](./1920x1200/alone-drive.png)
@@ -54,6 +55,8 @@ Day of the Tentacle<br />
 ![./1920x1200/ishar-day.png](./1920x1200/ishar-day.png)
 ![./1920x1200/ishar-night-no-moon.png](./1920x1200/ishar-night-no-moon.png)
 ![./1920x1200/monkey-intro.png](./1920x1200/monkey-intro.png)
+![./1920x1200/monkey-scabb.png](./1920x1200/monkey-scabb.png)
+![./1920x1200/monkey-map-scabb.png](./1920x1200/monkey-map-scabb.png)
 ![./1920x1200/sam-fight.png](./1920x1200/sam-fight.png)
 ![./1920x1200/sensi-yellow.png](./1920x1200/sensi-yellow.png)
 ![./1920x1200/sherlock-carriage.png](./1920x1200/sherlock-carriage.png)
