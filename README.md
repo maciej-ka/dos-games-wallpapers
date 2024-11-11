@@ -46,7 +46,7 @@ Monkey Island 2: LeChuck’s Revenge<br />
 ![./1920x1200/dig-wet.png](./1920x1200/dig-wet.png)
 ![./1920x1200/full-ambush.png](./1920x1200/full-ambush.png)
 ![./1920x1200/full-rustic-empty.png](./1920x1200/full-rustic-empty.png)
-![./1920x1200/full-uh-oh.png](./1920x1200/full-uh-oh.png)
+![./1920x1200/full-uh-oh-empty.png](./1920x1200/full-uh-oh-empty.png)
 ![./1920x1200/full-who-needs-dogs.png](./1920x1200/full-who-needs-dogs.png)
 ![./1920x1200/indy-basement.png](./1920x1200/indy-basement.png)
 ![./1920x1200/indy-dont-look-good.png](./1920x1200/indy-dont-look-good.png)
