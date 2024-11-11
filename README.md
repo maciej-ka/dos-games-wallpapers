@@ -51,6 +51,7 @@ Monkey Island 2: LeChuck’s Revenge<br />
 ![./1920x1200/indy-basement.png](./1920x1200/indy-basement.png)
 ![./1920x1200/indy-dont-look-good.png](./1920x1200/indy-dont-look-good.png)
 ![./1920x1200/indy-uh-oh.png](./1920x1200/indy-uh-oh.png)
+![./1920x1200/ishar-bridge.png](./1920x1200/ishar-bridge.png)
 ![./1920x1200/ishar-castle.png](./1920x1200/ishar-castle.png)
 ![./1920x1200/ishar-day.png](./1920x1200/ishar-day.png)
 ![./1920x1200/ishar-night-no-moon.png](./1920x1200/ishar-night-no-moon.png)
