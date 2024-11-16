@@ -2,7 +2,7 @@
 ![docs with iterm png](./docs/with-iterm.png)
 ![docs preview 2 png](./docs/preview-2.png)
 
-A wallpaper collection curated for atmosphere, mini distractions and humor.
+A wallpaper collection curated for atmosphere, minimal distraction and humor.
 
 ### [Download as zip](https://github.com/maciej-ka/dos-games-wallpapers/archive/master.zip)
 
