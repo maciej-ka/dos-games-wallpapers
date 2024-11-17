@@ -10,6 +10,7 @@ Alone in the Dark<br />
 Another World<br />
 Beneath a Steel Sky<br />
 BloodNet<br />
+Cannon Fodder<br />
 Day of the Tentacle<br />
 Full Throttle<br />
 Indiana Jones and the Fate of Atlantis<br />
@@ -37,6 +38,8 @@ Monkey Island 2: LeChuck’s Revenge<br />
 ![./1920x1200/bloodnet-canal.png](./1920x1200/bloodnet-canal.png)
 ![./1920x1200/bloodnet-times.png](./1920x1200/bloodnet-times.png)
 ![./1920x1200/bloodnet-washington.png](./1920x1200/bloodnet-washington.png)
+![./1920x1200/cannon-first-mission.png](./1920x1200/cannon-first-mission.png)
+![./1920x1200/cannon-forest-base.png](./1920x1200/cannon-forest-base.png)
 ![./1920x1200/civ-beginning.png](./1920x1200/civ-beginning.png)
 ![./1920x1200/civ-founded.png](./1920x1200/civ-founded.png)
 ![./1920x1200/dig-air-tastes.png](./1920x1200/dig-air-tastes.png)
