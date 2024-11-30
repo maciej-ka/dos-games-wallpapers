@@ -53,6 +53,7 @@ The Secret of Monkey Island<br />
 ![./1920x1200/full-uh-oh-empty.png](./1920x1200/full-uh-oh-empty.png)
 ![./1920x1200/full-who-needs-dogs.png](./1920x1200/full-who-needs-dogs.png)
 ![./1920x1200/indy-basement.png](./1920x1200/indy-basement.png)
+![./1920x1200/indy-college.png](./1920x1200/indy-college.png)
 ![./1920x1200/indy-dont-look-good.png](./1920x1200/indy-dont-look-good.png)
 ![./1920x1200/indy-uh-oh.png](./1920x1200/indy-uh-oh.png)
 ![./1920x1200/ishar-bridge.png](./1920x1200/ishar-bridge.png)
