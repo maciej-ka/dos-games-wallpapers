@@ -64,6 +64,8 @@ The Secret of Monkey Island<br />
 ![./1920x1200/monkey-map-scabb.png](./1920x1200/monkey-map-scabb.png)
 ![./1920x1200/monkey-scabb.png](./1920x1200/monkey-scabb.png)
 ![./1920x1200/sam-fight.png](./1920x1200/sam-fight.png)
+  ![./1920x1200/sensi-free.png](./1920x1200/sensi-free.png)
+![./1920x1200/sensi-muddy.png](./1920x1200/sensi-muddy.png)
 ![./1920x1200/sensi-yellow.png](./1920x1200/sensi-yellow.png)
 ![./1920x1200/sherlock-carriage.png](./1920x1200/sherlock-carriage.png)
 ![./1920x1200/sherlock-kid.png](./1920x1200/sherlock-kid.png)
