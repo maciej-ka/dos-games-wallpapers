@@ -49,6 +49,7 @@ The Secret of Monkey Island<br />
 ![./1920x1200/dig-underwater.png](./1920x1200/dig-underwater.png)
 ![./1920x1200/dig-wet.png](./1920x1200/dig-wet.png)
 ![./1920x1200/full-ambush-empty.png](./1920x1200/full-ambush-empty.png)
+![./1920x1200/full-night-bar.png](./1920x1200/full-night-bar.png)
 ![./1920x1200/full-rustic-empty.png](./1920x1200/full-rustic-empty.png)
 ![./1920x1200/full-uh-oh-empty.png](./1920x1200/full-uh-oh-empty.png)
 ![./1920x1200/full-who-needs-dogs.png](./1920x1200/full-who-needs-dogs.png)
