@@ -44,6 +44,7 @@ The Secret of Monkey Island<br />
 ![./1920x1200/civ-beginning.png](./1920x1200/civ-beginning.png)
 ![./1920x1200/civ-founded.png](./1920x1200/civ-founded.png)
 ![./1920x1200/dig-air-tastes.png](./1920x1200/dig-air-tastes.png)
+![./1920x1200/dig-earth.png](./1920x1200/dig-earth.png)
 ![./1920x1200/dig-sky.png](./1920x1200/dig-sky.png)
 ![./1920x1200/dig-swim.png](./1920x1200/dig-swim.png)
 ![./1920x1200/dig-underwater.png](./1920x1200/dig-underwater.png)
