@@ -18,6 +18,7 @@ Indiana Jones and the Fate of Atlantis
 Ishar 2: Messengers of Doom  
 Ishar 3: The Seven Gates of Infinity  
 Monkey Island 2: LeChuck’s Revenge  
+Prince of Persia 2  
 Sam & Max Hit the Road  
 Sensible Soccer  
 Sid Meier's Civilization  
@@ -68,6 +69,9 @@ The Secret of Monkey Island
 ![./1920x1200/monkey-intro.png](./1920x1200/monkey-intro.png)  
 ![./1920x1200/monkey-map-scabb.png](./1920x1200/monkey-map-scabb.png)  
 ![./1920x1200/monkey-scabb.png](./1920x1200/monkey-scabb.png)  
+![./1920x1200/prince-beach-1.png](./1920x1200/prince-beach-1.png)  
+![./1920x1200/prince-beach-2.png](./1920x1200/prince-beach-2.png)  
+![./1920x1200/prince-beach-3.png](./1920x1200/prince-beach-3.png)  
 ![./1920x1200/sam-fight.png](./1920x1200/sam-fight.png)  
 ![./1920x1200/sensi-free.png](./1920x1200/sensi-free.png)  
 ![./1920x1200/sensi-icy.png](./1920x1200/sensi-icy.png)  
