@@ -1,10 +1,10 @@
+Collection of screenshots from DOS games. Occasionally edited to remove user interface. Playful, niche, heat radiating.
+
+[Download ◀](https://github.com/maciej-ka/dos-games-wallpapers/archive/master.zip) (folder of 1920 x 1200 png files)
+
 ![docs preview png](./docs/preview.png)  
 ![docs with iterm png](./docs/with-iterm.png)  
 ![docs preview 2 png](./docs/preview-2.png)
-
-A wallpaper collection curated for atmosphere, minimal distraction and humor.
-
-### [Download as zip](https://github.com/maciej-ka/dos-games-wallpapers/archive/master.zip)
 
 Alone in the Dark  
 Another World  
@@ -26,7 +26,7 @@ Star Wars: X-Wing
 The Dig®  
 The Lost Files of Sherlock Holmes  
 The Secret of Monkey Island
- 
+
 ## Image list
 ![./1920x1200/alone-drive.png](./1920x1200/alone-drive.png)  
 ![./1920x1200/alone-home.png](./1920x1200/alone-home.png)  
