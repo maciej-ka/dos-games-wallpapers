@@ -6,7 +6,8 @@ Playful, niche, heat radiating.
 
 ![docs preview png](./docs/preview.png)  
 ![docs with iterm png](./docs/with-iterm.png)  
-![docs preview 2 png](./docs/preview-2.png)
+![docs preview 2 png](./docs/preview-2.png)  
+<br />
 
 ### Alone in the Dark
 ![./1920x1200/alone-drive.png](./1920x1200/alone-drive.png)  
