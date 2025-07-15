@@ -1,4 +1,6 @@
-Collection of screenshots from DOS games. Occasionally edited to remove user interface. Playful, niche, heat radiating.
+Collection of screenshots from DOS games.  
+Occasionally edited to remove user interface.  
+Playful, niche, heat radiating.  
 
 [Download ◀](https://github.com/maciej-ka/dos-games-wallpapers/archive/master.zip) (folder of 1920 x 1200 png files)
 
