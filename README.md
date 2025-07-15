@@ -2,7 +2,7 @@ Collection of screenshots from DOS games.
 Occasionally edited to remove user interface.  
 Playful, niche, heat radiating.  
 
-[Download folder of 1920 x 1200 png files](https://github.com/maciej-ka/dos-games-wallpapers/archive/master.zip)
+[Download folder of 1920 x 1200 png files](https://github.com/maciej-ka/dos-games-wallpapers/archive/master.zip)  
 
 ![docs preview png](./docs/preview.png)  
 ![docs with iterm png](./docs/with-iterm.png)  
